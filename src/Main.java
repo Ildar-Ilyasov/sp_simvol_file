@@ -22,4 +22,8 @@ public class Main {
             System.out.println("Самая длинная последовательность символов x: " + maxLength);
         }
     }
+
+    public static int findLongestSequence(BufferedReader reader, char x) {
+        return 0;
+    }
 }
